@@ -1,6 +1,3 @@
-# Kotlin Aplikasi Football Matc hSchedule
-Topik Submission 2: Aplikasi Football Match Schedule
-
 # Syarat
 Fitur yang harus ada pada aplikasi Anda adalah:
 1. Menampilkan 15 jadwal pertandingan, baik yang terakhir maupun yang mendatang berdasarkan League ID. Anda bebas menentukan League ID yang akan digunakan.
